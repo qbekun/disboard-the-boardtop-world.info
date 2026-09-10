@@ -1,0 +1,16 @@
+9960	Exceed
+9940	OldDeus
+9920	Flügel
+9900	Elf
+9880	Werebeast
+9860	Imanity
+9840	ExMachina
+9820	Dhampir
+9800	Tet
+9780	Riku
+9760	Schwi
+9740	Artosh
+9720	Azril
+9700	Kurami
+9680	Fiel
+9660	空

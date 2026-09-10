@@ -1,0 +1,10 @@
+1	Pledge One forbids?	Bloodshed	Lying	Gambling	Theft
+2	Disputes are settled by?	Games	Fights	Courts	Lots
+3	A game needs what wager?	Equal stake	Nothing	Life	Money
+4	Shiritori vs Jibril: winner?	Blank	Jibril	Steph	Kurami
+5	Jibril's exploited flaw?	Literal mind	Eyes	Strength	Magic
+6	Sora's wager vs Jibril?	Himself	Crown	Nothing	Money
+7	Word game vs Jibril?	Shiritori	Karuta	Poker	Mahjong
+8	Result of Sora vs Jibril?	Serves Blank	Draw	Escape	Death
+9	Jibril's weapon?	Spells	Sword	Gun	Bow
+10	Jibril's Aschente means?	Loyalty oath	Attack	Prayer	Curse

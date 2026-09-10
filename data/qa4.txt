@@ -1,0 +1,10 @@
+1	Who gambles for Elkia's crown?	Kurami+Fiel	Steph	Jibril	Izuna
+2	Game vs Kurami for Elkia?	Chess	Shiritori	Poker	FPS
+3	Who cheated with magic?	Fiel	Steph	Jibril	Sora
+4	How to beat elven magic?	Shiro's logic	Force	Miracle	Luck
+5	Where do they meet Jibril?	Library	Casino	Beach	Castle
+6	The casino rival is?	Izuna	Elves	Dhampir	Flugel
+7	Casino game vs Izuna?	Shooter	Roulette	Poker	Chess
+8	The Werebeast girl is?	Izuna	Miko	Kurami	Fiel
+9	The Werebeast priestess?	Miko	Izuna	Steph	Azril
+10	The casino prize?	Rights	Crown	Money	Nothing

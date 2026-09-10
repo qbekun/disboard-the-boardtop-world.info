@@ -1,0 +1,10 @@
+1	Which Flugel joins Blank?	Jibril	Azril	Fiel	Kurami
+2	Who is Sora's sister?	Shiro	Steph	Jibril	Kurami
+3	Izuna's race is?	Werebeast	Dhampir	Elf	Flugel
+4	Who becomes queen of Elkia?	Stephanie	Kurami	Sora	Fiel
+5	An Old Deus is?	Tet	Artosh	Holou	Jibril
+6	Kurami's elf friend is?	Fiel	Jibril	Azril	Steph
+7	Kurami's family name?	Zell	Dola	Nirvalen	Hatsuse
+8	Flugel leader after Jibril?	Azril	Jibril	Steph	Tet
+9	Elkia is a?	Federation	Kingdom	Republic	Empire
+10	Who worships Sora?	Stephanie	Jibril	Kurami	Azril

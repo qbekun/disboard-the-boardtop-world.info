@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>人類種向け 頭脳バトル 唯一神の遊戯｜『ノーゲーム･ノーライフ』アニメ公式サイト</title>
+<meta name="viewport" content="width=1100px, user-scalable=yes">
+<meta name="keywords" content="ノゲ,ノムラ,ノゲノラ,榎宮祐.MF文庫J,アニメ,新番組,マッドハウス,2014年,4月,ゲーム,空白,空,白,MF,メディアファクトリー,アライブ,柊ましろ,新番">
+<meta name="Description" content="MF文庫J『ノーゲーム・ノーライフ』2014年4月TVアニメ放送開始！神によって異世界に召喚された空と白。そこは一切の争いが禁じられ、全てがゲームによって決まる世界だった！？原作・イラストの双方を手掛ける榎宮祐が放つ超弩級の頭脳バトルファンタジー、ここに開幕！">
+<meta property="og:title" content="人類種向け 頭脳バトル 唯一神の遊戯">
+<meta property="og:type" content="website">
+<meta property="og:description" content="MF文庫J『ノーゲーム・ノーライフ』2014年4月TVアニメ放送開始！神によって異世界に召喚された空と白。そこは一切の争いが禁じられ、全てがゲームによって決まる世界だった！？原作・イラストの双方を手掛ける榎宮祐が放つ超弩級の頭脳バトルファンタジー、ここに開幕！">
+<meta property="og:url" content="http://disboard-the-boardtop-world.info/">
+<meta property="og:image" content="images/ogp_ngnl.png">
+<meta property="og:site_name" content="人類種向け 頭脳バトル 唯一神の遊戯">
+<meta property="og:locale" content="ja_JP">
+<link rel="icon" href="images/favicon.ico">
+<link rel="stylesheet" href="css/default.css">
+<link rel="stylesheet" href="css/special.css">
+<style>
+#flash-container{width:950px;height:675px;margin:0 auto;background:#000;}
+#flash-container ruffle-player{width:950px;height:675px;display:block;}
+</style>
+<script src="js/jquery-1.9.1.min.js"></script>
+<script src="js/script.js"></script>
+<script>
+window.RufflePlayer = window.RufflePlayer || {};
+window.RufflePlayer.config = {
+  autoplay: "on",
+  unmuteOverlay: "hidden",
+  splashScreen: false,
+  showSwfDownload: false,
+  letterbox: "off",
+  backgroundColor: "#000000",
+  favorFlash: false
+};
+</script>
+<script src="js/ruffle.js"></script>
+<script>
+var sns_message_link = location.href;
+var sns_message="【ノーゲーム・ノーライフ】人類種向け頭脳バトル「唯一神の遊戯」で、9999点を獲得しました。 \n"+sns_message_link;
+
+function facebook_send(total){
+  try{
+    var msg=sns_message.replace('9999',total);
+    var url='https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(sns_message_link)+'&quote='+encodeURIComponent(msg);
+    window.open(url,'_blank');
+  }catch(e){}
+}
+function twitter_send(total){
+  try{
+    var msg=sns_message.replace('9999',total);
+    var url='https://twitter.com/intent/tweet?text='+encodeURIComponent(msg);
+    window.open(url,'_blank');
+  }catch(e){}
+}
+function _getStageNo(){
+  try{
+    var m=location.search.match(/stage=([1-6])/);
+    if(m) return parseInt(m[1],10);
+  }catch(e){}
+  return 1;
+}
+window.addEventListener("DOMContentLoaded", function(){
+  try{
+    var ruffle = window.RufflePlayer.newest();
+    var container = document.getElementById("flash-container");
+    var player = ruffle.createPlayer();
+    player.style.width = "950px";
+    player.style.height = "675px";
+    container.innerHTML = "";
+    container.appendChild(player);
+    player.load("NGNL.swf");
+  }catch(e){}
+});
+</script>
+</head>
+<body>
+<div id="container">
+    <div id="main_contents">
+        <div class="game">
+            <div id="noflash">
+                <div id="flash-container"></div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="toTopFixed">
+            <a href="#"><img src="images/img-totop.png" width="47" height="140" alt="ページの先頭へ"></a>
+        </div>
+        <div id="social_btn" style="padding:30px 0 0 0;">
+            <p style="text-align:center;margin:0;"><a href="https://ngnl.jp" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/qbekun/archive-public/refs/heads/main/ngnl/4bdb8b52279e260e1f42b2c62ffe8711d8b85663.jpg" alt="ノーゲーム・ノーライフ公式サイト" style="display:inline-block;max-width:100%;height:auto;"></a></p>
+        </div>
+        <address>
+            <p>&copy;&nbsp;2014 榎宮祐・株式会社KADOKAWA メディアファクトリー刊／ノーゲーム・ノーライフ全権代理委員会</p>
+        </address>
+    </footer>
+</div>
+<script>
+if ('serviceWorker' in navigator && location.protocol.indexOf('http') === 0) {
+  navigator.serviceWorker.register('sw.js').catch(function(){});
+}
+</script>
+</body>
+</html>

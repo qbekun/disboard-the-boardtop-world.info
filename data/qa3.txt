@@ -1,0 +1,10 @@
+1	Exceed has how many races?	16	10	12	8
+2	Race No.1 in the Exceed?	Old Deus	Phantasma	Elemental	Dragon
+3	Imanity's rank?	16th	1st	8th	10th
+4	Elves' rank?	7th	3rd	12th	16th
+5	Flugel's rank?	6th	2nd	7th	10th
+6	Werebeast rank?	14th	16th	6th	4th
+7	Dhampir rank?	12th	14th	7th	3rd
+8	Race of magic and long life?	Elves	Imanity	Werebeast	Warbeast
+9	Who made the Flugel?	Artosh	Tet	Holou	Riku
+10	The machine race?	Ex-Machina	Flugel	Dhampir	Seiren

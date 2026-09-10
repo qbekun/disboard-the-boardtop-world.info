@@ -1,0 +1,10 @@
+1	Who was Tet before God?	Old Deus	Gamer	Imanity	Elf
+2	War ended when Tet seized?	Suniaster	Crown	Sword	Book
+3	Artifact of God's throne?	Suniaster	Aschente	Ex-Machina	Sirena
+4	Flugel God of War?	Artosh	Tet	Holou	Riku
+5	Hero of mankind in the war?	Riku	Sora	Tet	Artosh
+6	Riku's wife?	Schwi	Shiro	Steph	Jibril
+7	Schwi's race?	Ex-Machina	Flugel	Imanity	Elf
+8	Who wrote NGNL novels?	Kamiya	Madhouse	Kadokawa	Tet
+9	NGNL anime studio (2014)?	Madhouse	Trigger	Shaft	Ufotable
+10	Tet's game title?	God's Game	Disboard	Blank	No Game

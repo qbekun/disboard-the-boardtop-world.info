@@ -1,0 +1,10 @@
+1	Sora and Shiro's duo is called?	Blank	Red	Black	Shirokuro
+2	Where are Sora and Shiro summoned?	Disboard	Elven Gard	Ostland	Lucia
+3	How many Pledges rule Disboard?	10	7	12	16
+4	Who is the One True God?	Tet	Sora	Shiro	Steph
+5	The ex-king's granddaughter is?	Stephanie	Kurami	Jibril	Fiel
+6	Sora and Shiro's race?	Imanity	Elf	Flugel	Werebeast
+7	Blank means in Japanese?	Kuuhaku	Kuroshiro	Mumei	Kuuseki
+8	Who beats them at chess first?	Tet	Steph	Kurami	Jibril
+9	Shiro's eye color?	Red-yellow	Blue	Green	Violet
+10	What are they best at?	Games	Fighting	Magic	Politics
