@@ -15,6 +15,10 @@ The original domain is no longer active and currently redirects to KADOKAWA.
 
 This repository preserves the original website and its assets for **archival and historical purposes**.
 
+<a href="https://ngnl.jp">
+  <img src="https://raw.githubusercontent.com/qbekun/archive-public/refs/heads/main/ngnl/4bdb8b52279e260e1f42b2c62ffe8711d8b85663.jpg" alt="No Game No Life" width="600">
+</a>
+
 ## Original Website
 
 🌐 http://www.disboard-the-boardtop-world.info/
